@@ -1,4 +1,4 @@
-# Daksina 
+# Daksinamurthy Kumar
 
 `CSE @ VIT Chennai` · `Developer` · `Creative Technologist`
 
