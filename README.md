@@ -10,48 +10,6 @@ I don't have a single niche I'm committed to yet. I'd rather explore different a
 
 ✦ ────────────────────────────────────── ✦
 
-### ⟡ Selected Projects
-
-**01 / VibeMatch**
-
-*A content-based music recommendation system.*
-
-A music discovery application that uses Spotify track data, audio characteristics, and similarity-based recommendation methods to help users discover music. Containerized and deployed on AWS EC2.
-
-`Python` · `scikit-learn` · `Docker` · `AWS`
-
-↗ [Repository](https://github.com/Dakdadawg/VibeMatch-ML-based-Music-Partner)
-
-**02 / AI Agentic Swarm**
-
-*Multi-agent systems for business strategizing.*
-
-An exploration of collaborative AI agents specializing in research, finance, marketing, risk analysis, and compliance to approach business decisions from multiple perspectives.
-
-`AI` · `Agentic Systems`
-
-↗ [Repository](https://github.com/Dakdadawg/AI-Agentic-Swarm-for-Business-Strategizing)
-
-**03 / NoSQL Food Delivery System**
-
-*Database design meets application development.*
-
-A food delivery management system featuring customer ordering, restaurant operations, delivery workflows, and analytics powered by MongoDB aggregation pipelines.
-
-`Python` · `MongoDB` · `Streamlit`
-
-↗ [Repository](https://github.com/Dakdadawg/NoSQL-Food-Delivery-System)
-
-**04 / Personal Portfolio**
-
-*A space for my work and experiments.*
-
-My personal portfolio for showcasing projects, technical interests, and ongoing work.
-
-↗ [Repository](https://github.com/Dakdadawg/portfolio)
-
-✦ ────────────────────────────────────── ✦
-
 ### ⟡ Current Toolkit
 
 **Languages**  
@@ -72,7 +30,7 @@ A collection of tools I've worked with, not a boundary around what I want to lea
 
 I'm also into digital art, drawing, UI/UX, visual design, video editing, and creative experimentation.
 
-I like making things that are not only functional but thoughtfully put together. The overlap between engineering and visual creativity is something I want to keep exploring.
+My basic philosophy with software engineering is to "ensure it's beautiful both inside and outside". I like making things that are not only functional but thoughtfully put together and appealing to look at. The overlap between engineering and visual creativity is something I am deeply passionate about and want to keep exploring. 
 
 ### ⟡ On the Horizon
 
