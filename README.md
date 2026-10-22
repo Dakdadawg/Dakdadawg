@@ -1,4 +1,4 @@
-# Daksina Murthy
+# Daksina 
 
 `CSE @ VIT Chennai` · `Developer` · `Creative Technologist`
 
