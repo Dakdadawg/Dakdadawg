@@ -4,7 +4,7 @@
 
 *Building things, exploring ideas, figuring it out along the way.*
 
-I'm a Computer Science student interested in the intersection of software, AI, systems, and design. I enjoy learning by building — taking an idea, figuring out how it works, and turning it into something tangible.
+I'm a Computer Science student interested in the intersection of software, AI, systems, and design. I enjoy learning by building, figuring out how it works, and turning it into something tangible.
 
 I don't have a single niche I'm committed to yet. I'd rather explore different areas of technology, develop a solid foundation, and see where the most interesting problems take me.
 
